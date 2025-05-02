@@ -3,3 +3,5 @@
 ## Demonstrating markup language
 
 ### This is a level 3 heading.
+
+This is a normal paragraph.
