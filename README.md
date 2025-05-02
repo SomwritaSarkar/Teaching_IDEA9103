@@ -1,5 +1,5 @@
 # Teaching_IDEA9103
 
-Teaching folder for IDEA9103
+## Demonstrating markup language
 
-This is a new line I wrote.
+### This is a level 3 heading.
